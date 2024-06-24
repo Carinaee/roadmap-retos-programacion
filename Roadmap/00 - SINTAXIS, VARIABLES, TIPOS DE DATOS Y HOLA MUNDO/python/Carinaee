@@ -1,0 +1,18 @@
+#https://www.python.org/
+"""
+otra manera de gregar comentarios
+"""
+'''
+otra manera de agregar comentarios
+'''
+string = "str"
+numero_entero = 5
+numero_decimal = 5.5
+bolean = True
+
+print(string)
+print(numero_entero)
+print(numero_decimal)
+print(bolean)
+000
+
